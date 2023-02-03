@@ -35,4 +35,4 @@ Customer 15 commenced free trial on 17 Mar 2020, then upgraded to pro monthly pl
 
 ***
 
-Click here for [solution]
+Click here for [solution](https://github.com/iqrabismii/8-Week-SQL-Challenge/blob/main/food-fi/solutions.sql)
